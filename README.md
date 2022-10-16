@@ -27,7 +27,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 -	Precision high risk score 1% and low risk score 100%
 -	Recall score for high risk 70% and low risk 57%
 
-##Balanced Random Forest Classifier
+## Balanced Random Forest Classifier
 -	The Balanced Accuracy Score is at 82%
 -	Precision high risk score is 4% and low risk score is 100%
 -	Recall score for high risk is at 72% and low risk at 91%
