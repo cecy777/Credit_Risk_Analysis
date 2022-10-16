@@ -38,5 +38,5 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 -	Recall score for high risk is at 90% and low risk at 94%
 
 # SUMMARY
-The Balanced Accuracy Score of 91% is shown by EasyEnsembleClassifier with measures the ability to detect high risk credit scores & low risk scores. Therefore, this model can clarity be recommended. There is a lack of precision in other models used to perform Credit risk analysis compared to EasyEnsembleClassifier.
+The Balanced Accuracy Score of 91% is shown by EasyEnsembleClassifier with measures the ability to detect high risk credit scores & low risk scores. Therefore, this model can clarity be recommended. There is a deficiency of precision in other models used to perform Credit risk analysis compared to EasyEnsembleClassifier.
 
